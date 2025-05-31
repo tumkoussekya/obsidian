@@ -1,3 +1,9 @@
+---
+title: "Plan to Learn AIML"
+date: 2025-05-31
+tags: ["AI", "ML", "Learning Plan"]
+---
+
 
 - **AI**: Artificial Intelligence
 - **ML**: Machine Learning
